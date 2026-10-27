@@ -1,3 +1,5 @@
-# Eason The Hunter - Android test build
+﻿# 翌森之旅:獵手 - Android 測試版
 
-Debug-signed ARM64 APK (Android 8.0+). Download EasonTheHunter.apk and install it on your phone.
+Debug 簽章的 ARM64 APK（Android 8.0 以上）。下載「翌森之旅：獵手.apk」後安裝到手機；如果瀏覽器卡在掃描 .apk，改下載同名的 .zip，解壓後再安裝。
+
+建置日期：2026-10-27。
